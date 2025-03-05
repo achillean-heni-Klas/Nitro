@@ -34,3 +34,5 @@ Like CSS transitions, but better.
 ---
 
 MIT © [glimmer-anim.dev](https://glimmer-anim.dev)
+
+# PR Merge: 2025-10-31 20:39:26
